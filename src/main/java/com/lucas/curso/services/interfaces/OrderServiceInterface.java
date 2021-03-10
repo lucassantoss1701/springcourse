@@ -1,4 +1,4 @@
-package com.lucas.curso.services;
+package com.lucas.curso.services.interfaces;
 
 import com.lucas.curso.entities.Order;
 

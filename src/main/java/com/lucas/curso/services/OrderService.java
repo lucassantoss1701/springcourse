@@ -2,6 +2,7 @@ package com.lucas.curso.services;
 
 import com.lucas.curso.entities.Order;
 import com.lucas.curso.repositories.OrderRepository;
+import com.lucas.curso.services.interfaces.OrderServiceInterface;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

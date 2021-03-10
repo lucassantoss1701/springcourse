@@ -2,6 +2,7 @@ package com.lucas.curso.services;
 
 import com.lucas.curso.entities.User;
 import com.lucas.curso.repositories.UserRepository;
+import com.lucas.curso.services.interfaces.UserServiceInterface;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import java.util.Optional;
